@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+Hi!
+
+I am currently in my third year, pursuing a Specialist in Computer Science with a Focus in AI and a Minor in Statistics at the University of Toronto.
+
+I am very passionate about technology and am driven by the vision of using technology as a force for positive change in our world.\
+\
+Throughout my university courses, projects and experiences, I have gained a lot of technical and soft skills and I'm eager to apply these abilities in practical settings. I love to get the gears of my brain churning, learn new things and connecting with diverse perspectives.\
+\
+My interests are diverse, ranging from software development to data engineering to delving into artificial intelligence and machine learning techniques.
+
+Here is my current resume containing information about me, my experience and skills.
+
+[My Resume](Kaavya_Resume.pdf)
